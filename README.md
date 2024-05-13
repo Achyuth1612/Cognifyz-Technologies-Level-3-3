@@ -6,5 +6,5 @@
  delivery and table booking.
  
 2>Determine if higher-priced restaurants are
- more likely to offer these services
+ more likely to offer these services.
  
